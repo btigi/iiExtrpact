@@ -1,10 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
+  <PropertyGroup>    
     <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Library</OutputType>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyTitle>ii.Extrpact</AssemblyTitle>
+    <Product>ii.Extrpact</Product>
+    <Copyright>Copyright ©  2025</Copyright>
+    <AssemblyVersion>0.9</AssemblyVersion>
+    <FileVersion>0.9</FileVersion>
+    <Title>ii.Extrpact</Title>
+    <Version>0.9.0.0</Version>
+    <Authors>iggti</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/btigi/iiExtrpact</RepositoryUrl>
+    <Description>A library to extract the contents of RPA archives.</Description>
+    <PackageTags>rpa;visual-novel;extract</PackageTags>
   </PropertyGroup>
-
 </Project>
